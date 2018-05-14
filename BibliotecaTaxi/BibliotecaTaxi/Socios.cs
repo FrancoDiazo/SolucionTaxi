@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace BibliotecaTaxi
 {
-    class Socios
+    public class Socios
     {
-
+        private String nombre;
     }
 }
