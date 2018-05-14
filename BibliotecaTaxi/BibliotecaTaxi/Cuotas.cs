@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BibliotecaTaxi
 {
-    class Cuotas
+   public class Cuotas
     {
 
 
