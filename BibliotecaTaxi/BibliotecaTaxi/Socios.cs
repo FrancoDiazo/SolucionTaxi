@@ -8,5 +8,6 @@ namespace BibliotecaTaxi
 {
     class Socios
     {
+
     }
 }
